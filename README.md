@@ -1,5 +1,6 @@
 # VeraCity-Multi-Dimensional-News-Analyzer
 NLP-focused academic project
+
 An NLP-powered tool designed to detect news reliability and linguistic bias using SVM classification and linguistic-based heuristics.
 
 ## Project Components
