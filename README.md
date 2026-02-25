@@ -1,7 +1,7 @@
 # VeraCity-Multi-Dimensional-News-Analyzer
 NLP-focused academic project
 
-An NLP-powered tool designed to detect news reliability and linguistic bias using SVM classification and linguistic-based heuristics.
+An NLP-powered tool designed to analyze news reliability and linguistic bias using SVM classification and linguistic-based heuristics.
 
 ## Project Components
 - **`Streamlit/`**: Core application files (`main.py`, `VeraCity_engine.py`).
@@ -17,7 +17,7 @@ Due to GitHub's file size limits for web uploads, the machine learning model is 
 3. **Rename** the extracted `.pkl` file to exactly: `VeraCity_model.pkl`
 4. Ensure `VeraCity_model.pkl` remains inside the `Streamlit/` folder.
 
-## 🚀 How to Run Locally
+## How to Run Locally
 1. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
@@ -25,3 +25,7 @@ Due to GitHub's file size limits for web uploads, the machine learning model is 
 2. **Launch the Application:**
    ```bash
    streamlit run Streamlit/main.py
+
+
+https://github.com/user-attachments/assets/e47de563-2604-498c-be90-dd90835bcca9
+
